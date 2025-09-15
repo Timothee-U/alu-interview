@@ -1,0 +1,1 @@
+Rainfall  The prototype is a list of non-negative integers called def rain(walls) walls.  Return: An integer that shows how much rainwater was collected overall.  The endpoints of the list (before index 0 and after index walls[-1]) will not hold water if they are assumed to be non-walls.  Return 0 if the list is empty.
